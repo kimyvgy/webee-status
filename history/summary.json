@@ -4,17 +4,19 @@
     "url": "https://devto.webee.asia",
     "icon": "https://favicons.githubusercontent.com/devto.webee.asia",
     "slug": "devto-clone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 561,
-    "timeWeek": 1074,
-    "timeMonth": 780,
-    "timeYear": 761,
-    "dailyMinutesDown": {}
+    "time": 754,
+    "timeDay": 316,
+    "timeWeek": 949,
+    "timeMonth": 757,
+    "timeYear": 754,
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   }
 ]
